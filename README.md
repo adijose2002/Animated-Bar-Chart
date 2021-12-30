@@ -1,3 +1,3 @@
 # Animated-Bar-Chart
-Wrote a program that analyzes data extracted from a file in C++.
-The program makes use of search and sorting algorithms, struct data structures, and a distance calculation algorithm.
+Wrote a  C++ program that showcases Data Visualization in a different way.
+Popular over social media due to being a simple, yet powerful way to tell a narrative about categorical data over time.
